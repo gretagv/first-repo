@@ -1,4 +1,9 @@
-Test text for the first repo.
+Some more changes.
+
+Just cause...
+
+Sample text.
+
 Update with Git Bash.
 
 Update with Tortoise
